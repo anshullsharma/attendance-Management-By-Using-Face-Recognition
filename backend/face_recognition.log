@@ -1,0 +1,1486 @@
+2025-04-23 09:46:29,584 - INFO - package: mysql.connector.plugins
+2025-04-23 09:46:29,584 - INFO - plugin_name: caching_sha2_password
+2025-04-23 09:46:29,584 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 09:46:50,393 - INFO - Database connection closed
+2025-04-23 09:46:50,527 - INFO - Database connection closed
+2025-04-23 09:46:50,776 - INFO - Database connection closed
+2025-04-23 09:46:50,968 - INFO - Database connection closed
+2025-04-23 09:46:51,132 - INFO - Database connection closed
+2025-04-23 09:46:51,304 - INFO - Database connection closed
+2025-04-23 09:46:51,515 - INFO - Database connection closed
+2025-04-23 09:46:51,712 - INFO - Database connection closed
+2025-04-23 09:46:51,904 - INFO - Attendance marked for Student_ID: Unknown, Name: Unknown, Roll_No: Unknown
+2025-04-23 09:46:57,779 - INFO - Database connection closed
+2025-04-23 09:46:58,010 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:46:58,011 - INFO - Database connection closed
+2025-04-23 09:46:58,138 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:46:58,139 - INFO - Database connection closed
+2025-04-23 09:46:58,387 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:46:58,387 - INFO - Database connection closed
+2025-04-23 09:46:58,538 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:46:58,541 - INFO - Database connection closed
+2025-04-23 09:46:58,751 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:46:58,751 - INFO - Database connection closed
+2025-04-23 09:46:58,878 - INFO - Database connection closed
+2025-04-23 09:46:59,090 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:46:59,091 - INFO - Database connection closed
+2025-04-23 09:46:59,226 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:46:59,228 - INFO - Database connection closed
+2025-04-23 09:46:59,400 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:46:59,401 - INFO - Database connection closed
+2025-04-23 09:46:59,522 - INFO - Database connection closed
+2025-04-23 09:46:59,726 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:46:59,726 - INFO - Database connection closed
+2025-04-23 09:46:59,848 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:46:59,849 - INFO - Database connection closed
+2025-04-23 09:47:00,076 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:47:00,076 - INFO - Database connection closed
+2025-04-23 09:47:00,195 - INFO - Database connection closed
+2025-04-23 09:47:00,411 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:47:00,413 - INFO - Database connection closed
+2025-04-23 09:47:00,535 - INFO - Database connection closed
+2025-04-23 09:47:00,712 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:47:00,712 - INFO - Database connection closed
+2025-04-23 09:47:00,838 - INFO - Database connection closed
+2025-04-23 09:47:01,008 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:47:01,008 - INFO - Database connection closed
+2025-04-23 09:47:01,132 - INFO - Database connection closed
+2025-04-23 09:47:01,316 - INFO - Attendance already marked for Student_ID: 1
+2025-04-23 09:47:01,317 - INFO - Database connection closed
+2025-04-23 09:47:01,460 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:47:01,462 - INFO - Database connection closed
+2025-04-23 09:47:01,653 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:47:01,653 - INFO - Database connection closed
+2025-04-23 09:47:01,818 - INFO - Database connection closed
+2025-04-23 09:47:02,026 - INFO - Database connection closed
+2025-04-23 09:47:02,209 - INFO - Database connection closed
+2025-04-23 09:47:02,397 - INFO - Database connection closed
+2025-04-23 09:47:02,559 - INFO - Database connection closed
+2025-04-23 09:47:02,735 - INFO - Database connection closed
+2025-04-23 09:47:02,910 - INFO - Database connection closed
+2025-04-23 09:47:03,073 - INFO - Database connection closed
+2025-04-23 09:47:03,288 - INFO - Database connection closed
+2025-04-23 09:47:03,486 - INFO - Attendance already marked for Student_ID: 1
+2025-04-23 09:47:03,486 - INFO - Database connection closed
+2025-04-23 09:47:03,607 - INFO - Database connection closed
+2025-04-23 09:47:03,865 - INFO - Attendance already marked for Student_ID: 1
+2025-04-23 09:47:03,865 - INFO - Database connection closed
+2025-04-23 09:47:03,992 - INFO - Database connection closed
+2025-04-23 09:47:04,255 - INFO - Attendance already marked for Student_ID: 1
+2025-04-23 09:47:04,256 - INFO - Database connection closed
+2025-04-23 09:47:04,380 - INFO - Database connection closed
+2025-04-23 09:47:04,665 - INFO - Attendance already marked for Student_ID: 1
+2025-04-23 09:47:04,665 - INFO - Database connection closed
+2025-04-23 09:47:04,795 - INFO - Database connection closed
+2025-04-23 09:47:05,055 - INFO - Attendance already marked for Student_ID: 1
+2025-04-23 09:47:05,056 - INFO - Database connection closed
+2025-04-23 09:47:05,191 - INFO - Database connection closed
+2025-04-23 09:47:05,462 - INFO - Attendance already marked for Student_ID: 1
+2025-04-23 09:47:05,462 - INFO - Database connection closed
+2025-04-23 09:47:05,584 - INFO - Database connection closed
+2025-04-23 09:47:05,881 - INFO - Database connection closed
+2025-04-23 09:47:06,149 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:47:06,149 - INFO - Database connection closed
+2025-04-23 09:47:06,385 - INFO - Database connection closed
+2025-04-23 09:47:06,612 - INFO - Database connection closed
+2025-04-23 09:47:06,864 - INFO - Database connection closed
+2025-04-23 09:47:07,119 - INFO - Attendance already marked for Student_ID: 1
+2025-04-23 09:47:07,120 - INFO - Database connection closed
+2025-04-23 09:47:07,248 - INFO - Database connection closed
+2025-04-23 09:47:07,567 - INFO - Database connection closed
+2025-04-23 09:47:07,694 - INFO - Database connection closed
+2025-04-23 09:47:07,969 - INFO - Attendance already marked for Student_ID: 1
+2025-04-23 09:47:07,970 - INFO - Database connection closed
+2025-04-23 09:47:08,104 - INFO - Database connection closed
+2025-04-23 09:47:08,377 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:47:08,378 - INFO - Database connection closed
+2025-04-23 09:47:08,515 - INFO - Database connection closed
+2025-04-23 09:47:08,786 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:47:08,787 - INFO - Database connection closed
+2025-04-23 09:47:08,909 - INFO - Database connection closed
+2025-04-23 09:47:09,171 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:47:09,172 - INFO - Database connection closed
+2025-04-23 09:47:09,302 - INFO - Database connection closed
+2025-04-23 09:47:09,565 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:47:09,565 - INFO - Database connection closed
+2025-04-23 09:47:09,690 - INFO - Database connection closed
+2025-04-23 09:47:09,936 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:47:09,936 - INFO - Database connection closed
+2025-04-23 09:47:10,061 - INFO - Database connection closed
+2025-04-23 09:47:10,330 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:47:10,331 - INFO - Database connection closed
+2025-04-23 09:47:10,454 - INFO - Database connection closed
+2025-04-23 09:47:10,698 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:47:10,699 - INFO - Database connection closed
+2025-04-23 09:47:10,818 - INFO - Database connection closed
+2025-04-23 09:47:11,138 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:47:11,139 - INFO - Database connection closed
+2025-04-23 09:47:11,262 - INFO - Database connection closed
+2025-04-23 09:47:11,536 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:47:11,536 - INFO - Database connection closed
+2025-04-23 09:47:11,673 - INFO - Database connection closed
+2025-04-23 09:47:11,906 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:47:11,907 - INFO - Database connection closed
+2025-04-23 09:47:12,034 - INFO - Database connection closed
+2025-04-23 09:47:12,303 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:47:12,303 - INFO - Database connection closed
+2025-04-23 09:47:12,420 - INFO - Database connection closed
+2025-04-23 09:47:12,687 - INFO - Database connection closed
+2025-04-23 09:47:12,935 - INFO - Database connection closed
+2025-04-23 09:47:13,167 - INFO - Attendance already marked for Student_ID: 1
+2025-04-23 09:47:13,167 - INFO - Database connection closed
+2025-04-23 09:47:13,255 - INFO - Database connection closed
+2025-04-23 09:47:13,457 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:47:13,457 - INFO - Database connection closed
+2025-04-23 09:47:13,531 - INFO - Database connection closed
+2025-04-23 09:47:13,775 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:47:13,775 - INFO - Database connection closed
+2025-04-23 09:47:13,899 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:47:13,901 - INFO - Database connection closed
+2025-04-23 09:47:14,159 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:47:14,159 - INFO - Database connection closed
+2025-04-23 09:47:14,276 - INFO - Database connection closed
+2025-04-23 09:47:14,512 - INFO - Attendance already marked for Student_ID: Unknown
+2025-04-23 09:47:14,512 - INFO - Database connection closed
+2025-04-23 09:47:14,637 - INFO - Database connection closed
+2025-04-23 09:52:44,695 - INFO - package: mysql.connector.plugins
+2025-04-23 09:52:44,696 - INFO - plugin_name: caching_sha2_password
+2025-04-23 09:52:44,696 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 09:53:02,089 - INFO - Starting face recognition session
+2025-04-23 09:53:03,965 - INFO - Unknown face detected, skipping attendance
+2025-04-23 09:53:07,729 - INFO - Database connection closed
+2025-04-23 09:53:07,862 - INFO - Unknown face detected, skipping attendance
+2025-04-23 09:53:08,874 - INFO - Database connection closed
+2025-04-23 09:53:09,114 - INFO - Unknown face detected, skipping attendance
+2025-04-23 09:53:10,262 - INFO - Database connection closed
+2025-04-23 09:53:10,467 - INFO - Unknown face detected, skipping attendance
+2025-04-23 09:53:14,017 - INFO - Database connection closed
+2025-04-23 09:53:14,228 - INFO - Unknown face detected, skipping attendance
+2025-04-23 09:53:15,071 - INFO - Database connection closed
+2025-04-23 09:53:15,282 - INFO - Unknown face detected, skipping attendance
+2025-04-23 09:53:17,558 - INFO - Database connection closed
+2025-04-23 09:53:17,761 - INFO - Unknown face detected, skipping attendance
+2025-04-23 09:53:19,665 - INFO - Database connection closed
+2025-04-23 09:53:19,842 - INFO - Unknown face detected, skipping attendance
+2025-04-23 09:53:27,714 - INFO - Database connection closed
+2025-04-23 10:18:40,000 - INFO - package: mysql.connector.plugins
+2025-04-23 10:18:40,001 - INFO - plugin_name: caching_sha2_password
+2025-04-23 10:18:40,001 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 10:20:49,554 - INFO - package: mysql.connector.plugins
+2025-04-23 10:20:49,554 - INFO - plugin_name: caching_sha2_password
+2025-04-23 10:20:49,555 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 10:27:15,948 - INFO - Starting face recognition session
+2025-04-23 10:27:17,576 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:27:21,302 - INFO - Database connection closed
+2025-04-23 10:27:21,506 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:27:24,095 - INFO - Database connection closed
+2025-04-23 10:27:24,355 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:27:25,489 - INFO - Database connection closed
+2025-04-23 10:27:25,689 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:27:34,246 - INFO - Database connection closed
+2025-04-23 10:41:40,039 - INFO - Starting face recognition session
+2025-04-23 10:41:41,593 - INFO - Predicted Student_ID: 2, Confidence: 73
+2025-04-23 10:41:41,685 - INFO - package: mysql.connector.plugins
+2025-04-23 10:41:41,685 - INFO - plugin_name: caching_sha2_password
+2025-04-23 10:41:41,685 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 10:41:41,687 - INFO - Database Name result: None
+2025-04-23 10:41:41,688 - INFO - Database Roll_No result: None
+2025-04-23 10:41:41,689 - INFO - Database Student_ID result: None
+2025-04-23 10:41:41,689 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:41:45,750 - INFO - Database connection closed
+2025-04-23 10:41:45,810 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 10:41:45,865 - INFO - Database Name result: None
+2025-04-23 10:41:45,866 - INFO - Database Roll_No result: None
+2025-04-23 10:41:45,866 - INFO - Database Student_ID result: None
+2025-04-23 10:41:45,866 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:41:46,934 - INFO - Database connection closed
+2025-04-23 10:41:46,980 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 10:41:47,039 - INFO - Database Name result: None
+2025-04-23 10:41:47,039 - INFO - Database Roll_No result: None
+2025-04-23 10:41:47,039 - INFO - Database Student_ID result: None
+2025-04-23 10:41:47,039 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:41:48,133 - INFO - Database connection closed
+2025-04-23 10:41:48,193 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 10:41:48,249 - INFO - Database Name result: None
+2025-04-23 10:41:48,250 - INFO - Database Roll_No result: None
+2025-04-23 10:41:48,250 - INFO - Database Student_ID result: None
+2025-04-23 10:41:48,250 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:41:49,081 - INFO - Database connection closed
+2025-04-23 10:41:49,135 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 10:41:49,207 - INFO - Database Name result: None
+2025-04-23 10:41:49,208 - INFO - Database Roll_No result: None
+2025-04-23 10:41:49,208 - INFO - Database Student_ID result: None
+2025-04-23 10:41:49,208 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:41:49,626 - INFO - Database connection closed
+2025-04-23 10:41:49,683 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 10:41:49,742 - INFO - Database Name result: None
+2025-04-23 10:41:49,742 - INFO - Database Roll_No result: None
+2025-04-23 10:41:49,743 - INFO - Database Student_ID result: None
+2025-04-23 10:41:49,743 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:41:49,950 - INFO - Database connection closed
+2025-04-23 10:41:50,002 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 10:41:50,059 - INFO - Database Name result: None
+2025-04-23 10:41:50,060 - INFO - Database Roll_No result: None
+2025-04-23 10:41:50,060 - INFO - Database Student_ID result: None
+2025-04-23 10:41:50,060 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:41:50,356 - INFO - Database connection closed
+2025-04-23 10:41:50,408 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 10:41:50,465 - INFO - Database Name result: None
+2025-04-23 10:41:50,466 - INFO - Database Roll_No result: None
+2025-04-23 10:41:50,466 - INFO - Database Student_ID result: None
+2025-04-23 10:41:50,466 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:41:50,723 - INFO - Database connection closed
+2025-04-23 10:41:50,768 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 10:41:50,824 - INFO - Database Name result: None
+2025-04-23 10:41:50,824 - INFO - Database Roll_No result: None
+2025-04-23 10:41:50,824 - INFO - Database Student_ID result: None
+2025-04-23 10:41:50,825 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:41:51,073 - INFO - Database connection closed
+2025-04-23 10:41:51,120 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 10:41:51,177 - INFO - Database Name result: None
+2025-04-23 10:41:51,177 - INFO - Database Roll_No result: None
+2025-04-23 10:41:51,177 - INFO - Database Student_ID result: None
+2025-04-23 10:41:51,178 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:41:51,724 - INFO - Database connection closed
+2025-04-23 10:41:51,771 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 10:41:51,825 - INFO - Database Name result: None
+2025-04-23 10:41:51,825 - INFO - Database Roll_No result: None
+2025-04-23 10:41:51,826 - INFO - Database Student_ID result: None
+2025-04-23 10:41:51,826 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:41:52,000 - INFO - Database connection closed
+2025-04-23 10:41:52,048 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 10:41:52,104 - INFO - Database Name result: None
+2025-04-23 10:41:52,105 - INFO - Database Roll_No result: None
+2025-04-23 10:41:52,105 - INFO - Database Student_ID result: None
+2025-04-23 10:41:52,105 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:41:54,727 - INFO - Database connection closed
+2025-04-23 10:41:54,774 - INFO - Predicted Student_ID: 2, Confidence: 74
+2025-04-23 10:41:54,837 - INFO - Database Name result: None
+2025-04-23 10:41:54,837 - INFO - Database Roll_No result: None
+2025-04-23 10:41:54,838 - INFO - Database Student_ID result: None
+2025-04-23 10:41:54,838 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:41:55,303 - INFO - Database connection closed
+2025-04-23 10:41:55,350 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 10:41:55,410 - INFO - Database Name result: None
+2025-04-23 10:41:55,410 - INFO - Database Roll_No result: None
+2025-04-23 10:41:55,410 - INFO - Database Student_ID result: None
+2025-04-23 10:41:55,411 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:41:55,676 - INFO - Database connection closed
+2025-04-23 10:41:55,723 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 10:41:55,776 - INFO - Database Name result: None
+2025-04-23 10:41:55,776 - INFO - Database Roll_No result: None
+2025-04-23 10:41:55,778 - INFO - Database Student_ID result: None
+2025-04-23 10:41:55,778 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:41:56,232 - INFO - Database connection closed
+2025-04-23 10:41:56,276 - INFO - Predicted Student_ID: 2, Confidence: 74
+2025-04-23 10:41:56,337 - INFO - Database Name result: None
+2025-04-23 10:41:56,337 - INFO - Database Roll_No result: None
+2025-04-23 10:41:56,338 - INFO - Database Student_ID result: None
+2025-04-23 10:41:56,338 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:41:57,515 - INFO - Database connection closed
+2025-04-23 10:43:50,222 - INFO - package: mysql.connector.plugins
+2025-04-23 10:43:50,222 - INFO - plugin_name: caching_sha2_password
+2025-04-23 10:43:50,223 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 10:47:20,461 - INFO - Starting face recognition session
+2025-04-23 10:47:22,408 - INFO - Predicted Student_ID: 2, Confidence: 74
+2025-04-23 10:47:22,510 - INFO - Database Name result: None
+2025-04-23 10:47:22,511 - INFO - Database Roll_No result: None
+2025-04-23 10:47:22,511 - INFO - Database Student_ID result: None
+2025-04-23 10:47:22,512 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:47:34,374 - INFO - Database connection closed
+2025-04-23 10:47:34,446 - INFO - Predicted Student_ID: 2, Confidence: 74
+2025-04-23 10:47:34,552 - INFO - Database Name result: None
+2025-04-23 10:47:34,552 - INFO - Database Roll_No result: None
+2025-04-23 10:47:34,553 - INFO - Database Student_ID result: None
+2025-04-23 10:47:34,553 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:47:35,426 - INFO - Database connection closed
+2025-04-23 10:47:35,478 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 10:47:35,580 - INFO - Database Name result: None
+2025-04-23 10:47:35,581 - INFO - Database Roll_No result: None
+2025-04-23 10:47:35,581 - INFO - Database Student_ID result: None
+2025-04-23 10:47:35,582 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:47:37,361 - INFO - Database connection closed
+2025-04-23 10:47:37,934 - INFO - Predicted Student_ID: 2, Confidence: 72
+2025-04-23 10:47:38,027 - INFO - Database Name result: None
+2025-04-23 10:47:38,028 - INFO - Database Roll_No result: None
+2025-04-23 10:47:38,028 - INFO - Database Student_ID result: None
+2025-04-23 10:47:38,029 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:47:39,354 - INFO - Database connection closed
+2025-04-23 10:47:39,407 - INFO - Predicted Student_ID: 2, Confidence: 73
+2025-04-23 10:47:39,510 - INFO - Database Name result: None
+2025-04-23 10:47:39,510 - INFO - Database Roll_No result: None
+2025-04-23 10:47:39,511 - INFO - Database Student_ID result: None
+2025-04-23 10:47:39,511 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:47:39,710 - INFO - Database connection closed
+2025-04-23 10:47:39,762 - INFO - Predicted Student_ID: 2, Confidence: 72
+2025-04-23 10:47:39,889 - INFO - Database Name result: None
+2025-04-23 10:47:39,889 - INFO - Database Roll_No result: None
+2025-04-23 10:47:39,890 - INFO - Database Student_ID result: None
+2025-04-23 10:47:39,891 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:47:40,030 - INFO - Database connection closed
+2025-04-23 10:47:40,083 - INFO - Predicted Student_ID: 2, Confidence: 72
+2025-04-23 10:47:40,180 - INFO - Database Name result: None
+2025-04-23 10:47:40,181 - INFO - Database Roll_No result: None
+2025-04-23 10:47:40,181 - INFO - Database Student_ID result: None
+2025-04-23 10:47:40,182 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:47:40,378 - INFO - Database connection closed
+2025-04-23 10:47:40,430 - INFO - Predicted Student_ID: 2, Confidence: 73
+2025-04-23 10:47:40,526 - INFO - Database Name result: None
+2025-04-23 10:47:40,527 - INFO - Database Roll_No result: None
+2025-04-23 10:47:40,528 - INFO - Database Student_ID result: None
+2025-04-23 10:47:40,528 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:47:40,777 - INFO - Database connection closed
+2025-04-23 10:47:40,829 - INFO - Predicted Student_ID: 2, Confidence: 74
+2025-04-23 10:47:40,954 - INFO - Database Name result: None
+2025-04-23 10:47:40,954 - INFO - Database Roll_No result: None
+2025-04-23 10:47:40,955 - INFO - Database Student_ID result: None
+2025-04-23 10:47:40,955 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:47:41,319 - INFO - Database connection closed
+2025-04-23 10:47:41,368 - INFO - Predicted Student_ID: 2, Confidence: 73
+2025-04-23 10:47:41,479 - INFO - Database Name result: None
+2025-04-23 10:47:41,480 - INFO - Database Roll_No result: None
+2025-04-23 10:47:41,480 - INFO - Database Student_ID result: None
+2025-04-23 10:47:41,481 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:47:41,729 - INFO - Database connection closed
+2025-04-23 10:47:41,779 - INFO - Predicted Student_ID: 2, Confidence: 72
+2025-04-23 10:47:41,880 - INFO - Database Name result: None
+2025-04-23 10:47:41,880 - INFO - Database Roll_No result: None
+2025-04-23 10:47:41,881 - INFO - Database Student_ID result: None
+2025-04-23 10:47:41,881 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:47:43,286 - INFO - Database connection closed
+2025-04-23 10:47:43,339 - INFO - Predicted Student_ID: 2, Confidence: 73
+2025-04-23 10:47:43,441 - INFO - Database Name result: None
+2025-04-23 10:47:43,442 - INFO - Database Roll_No result: None
+2025-04-23 10:47:43,442 - INFO - Database Student_ID result: None
+2025-04-23 10:47:43,443 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:47:44,239 - INFO - Database connection closed
+2025-04-23 10:47:44,291 - INFO - Predicted Student_ID: 2, Confidence: 73
+2025-04-23 10:47:44,397 - INFO - Database Name result: None
+2025-04-23 10:47:44,397 - INFO - Database Roll_No result: None
+2025-04-23 10:47:44,397 - INFO - Database Student_ID result: None
+2025-04-23 10:47:44,398 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:47:44,643 - INFO - Database connection closed
+2025-04-23 10:47:44,694 - INFO - Predicted Student_ID: 2, Confidence: 73
+2025-04-23 10:47:44,794 - INFO - Database Name result: None
+2025-04-23 10:47:44,794 - INFO - Database Roll_No result: None
+2025-04-23 10:47:44,795 - INFO - Database Student_ID result: None
+2025-04-23 10:47:44,795 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:47:45,203 - INFO - Database connection closed
+2025-04-23 10:47:45,255 - INFO - Predicted Student_ID: 2, Confidence: 73
+2025-04-23 10:47:45,351 - INFO - Database Name result: None
+2025-04-23 10:47:45,352 - INFO - Database Roll_No result: None
+2025-04-23 10:47:45,352 - INFO - Database Student_ID result: None
+2025-04-23 10:47:45,352 - INFO - Unknown face detected, skipping attendance
+2025-04-23 10:47:49,998 - INFO - Database connection closed
+2025-04-23 10:51:39,494 - INFO - package: mysql.connector.plugins
+2025-04-23 10:51:39,495 - INFO - plugin_name: caching_sha2_password
+2025-04-23 10:51:39,495 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 11:57:26,849 - INFO - package: mysql.connector.plugins
+2025-04-23 11:57:26,850 - INFO - plugin_name: caching_sha2_password
+2025-04-23 11:57:26,850 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 12:04:26,393 - INFO - package: mysql.connector.plugins
+2025-04-23 12:04:26,393 - INFO - plugin_name: caching_sha2_password
+2025-04-23 12:04:26,394 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 12:10:20,102 - INFO - package: mysql.connector.plugins
+2025-04-23 12:10:20,103 - INFO - plugin_name: caching_sha2_password
+2025-04-23 12:10:20,103 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 12:11:47,654 - INFO - package: mysql.connector.plugins
+2025-04-23 12:11:47,654 - INFO - plugin_name: caching_sha2_password
+2025-04-23 12:11:47,654 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 12:24:34,684 - INFO - package: mysql.connector.plugins
+2025-04-23 12:24:34,685 - INFO - plugin_name: caching_sha2_password
+2025-04-23 12:24:34,685 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 12:31:54,998 - INFO - package: mysql.connector.plugins
+2025-04-23 12:31:54,998 - INFO - plugin_name: caching_sha2_password
+2025-04-23 12:31:54,998 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 12:38:42,156 - INFO - package: mysql.connector.plugins
+2025-04-23 12:38:42,156 - INFO - plugin_name: caching_sha2_password
+2025-04-23 12:38:42,156 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 12:40:02,245 - INFO - package: mysql.connector.plugins
+2025-04-23 12:40:02,245 - INFO - plugin_name: caching_sha2_password
+2025-04-23 12:40:02,246 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 12:40:45,679 - INFO - package: mysql.connector.plugins
+2025-04-23 12:40:45,679 - INFO - plugin_name: caching_sha2_password
+2025-04-23 12:40:45,679 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 12:41:32,497 - INFO - package: mysql.connector.plugins
+2025-04-23 12:41:32,498 - INFO - plugin_name: caching_sha2_password
+2025-04-23 12:41:32,498 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 12:42:30,696 - INFO - package: mysql.connector.plugins
+2025-04-23 12:42:30,697 - INFO - plugin_name: caching_sha2_password
+2025-04-23 12:42:30,697 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 12:43:07,669 - INFO - package: mysql.connector.plugins
+2025-04-23 12:43:07,670 - INFO - plugin_name: caching_sha2_password
+2025-04-23 12:43:07,670 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 12:45:03,355 - INFO - package: mysql.connector.plugins
+2025-04-23 12:45:03,356 - INFO - plugin_name: caching_sha2_password
+2025-04-23 12:45:03,358 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 12:45:59,365 - INFO - package: mysql.connector.plugins
+2025-04-23 12:45:59,365 - INFO - plugin_name: caching_sha2_password
+2025-04-23 12:45:59,365 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 12:47:34,256 - INFO - package: mysql.connector.plugins
+2025-04-23 12:47:34,256 - INFO - plugin_name: caching_sha2_password
+2025-04-23 12:47:34,256 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 12:55:58,928 - INFO - package: mysql.connector.plugins
+2025-04-23 12:55:58,929 - INFO - plugin_name: caching_sha2_password
+2025-04-23 12:55:58,929 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 12:59:10,981 - INFO - package: mysql.connector.plugins
+2025-04-23 12:59:10,982 - INFO - plugin_name: caching_sha2_password
+2025-04-23 12:59:10,982 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 13:02:54,494 - INFO - package: mysql.connector.plugins
+2025-04-23 13:02:54,494 - INFO - plugin_name: caching_sha2_password
+2025-04-23 13:02:54,494 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 13:03:58,019 - INFO - package: mysql.connector.plugins
+2025-04-23 13:03:58,019 - INFO - plugin_name: caching_sha2_password
+2025-04-23 13:03:58,019 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 13:08:38,103 - INFO - package: mysql.connector.plugins
+2025-04-23 13:08:38,103 - INFO - plugin_name: caching_sha2_password
+2025-04-23 13:08:38,103 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 13:11:03,341 - INFO - package: mysql.connector.plugins
+2025-04-23 13:11:03,341 - INFO - plugin_name: caching_sha2_password
+2025-04-23 13:11:03,341 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 13:21:18,507 - INFO - package: mysql.connector.plugins
+2025-04-23 13:21:18,507 - INFO - plugin_name: caching_sha2_password
+2025-04-23 13:21:18,507 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 13:24:29,536 - INFO - package: mysql.connector.plugins
+2025-04-23 13:24:29,537 - INFO - plugin_name: caching_sha2_password
+2025-04-23 13:24:29,537 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 13:42:22,594 - INFO - package: mysql.connector.plugins
+2025-04-23 13:42:22,594 - INFO - plugin_name: caching_sha2_password
+2025-04-23 13:42:22,594 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 13:43:56,443 - INFO - package: mysql.connector.plugins
+2025-04-23 13:43:56,444 - INFO - plugin_name: caching_sha2_password
+2025-04-23 13:43:56,444 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 13:45:30,260 - INFO - package: mysql.connector.plugins
+2025-04-23 13:45:30,260 - INFO - plugin_name: caching_sha2_password
+2025-04-23 13:45:30,260 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 13:47:58,293 - INFO - package: mysql.connector.plugins
+2025-04-23 13:47:58,293 - INFO - plugin_name: caching_sha2_password
+2025-04-23 13:47:58,294 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 14:02:22,485 - INFO - package: mysql.connector.plugins
+2025-04-23 14:02:22,485 - INFO - plugin_name: caching_sha2_password
+2025-04-23 14:02:22,485 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 14:35:48,449 - INFO - package: mysql.connector.plugins
+2025-04-23 14:35:48,450 - INFO - plugin_name: caching_sha2_password
+2025-04-23 14:35:48,450 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 18:44:21,063 - INFO - Starting face recognition session
+2025-04-23 18:44:22,449 - INFO - Predicted Student_ID: 2, Confidence: 76
+2025-04-23 18:44:22,680 - INFO - package: mysql.connector.plugins
+2025-04-23 18:44:22,681 - INFO - plugin_name: caching_sha2_password
+2025-04-23 18:44:22,681 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 18:44:22,685 - INFO - Database Name result: None
+2025-04-23 18:44:22,686 - INFO - Database Roll_No result: None
+2025-04-23 18:44:22,686 - INFO - Database Student_ID result: None
+2025-04-23 18:44:22,689 - INFO - Unknown face detected, skipping attendance
+2025-04-23 18:44:25,853 - INFO - Database connection closed
+2025-04-23 18:44:26,175 - INFO - Predicted Student_ID: 2, Confidence: 45
+2025-04-23 18:44:26,269 - INFO - Database Name result: None
+2025-04-23 18:44:26,270 - INFO - Database Roll_No result: None
+2025-04-23 18:44:26,271 - INFO - Database Student_ID result: None
+2025-04-23 18:44:26,271 - INFO - Unknown face detected, skipping attendance
+2025-04-23 18:44:27,402 - INFO - Database connection closed
+2025-04-23 18:44:27,714 - INFO - Predicted Student_ID: 2, Confidence: 45
+2025-04-23 18:44:27,829 - INFO - Database Name result: None
+2025-04-23 18:44:27,830 - INFO - Database Roll_No result: None
+2025-04-23 18:44:27,831 - INFO - Database Student_ID result: None
+2025-04-23 18:44:27,831 - INFO - Unknown face detected, skipping attendance
+2025-04-23 18:44:28,678 - INFO - Database connection closed
+2025-04-23 18:44:28,721 - INFO - Predicted Student_ID: 2, Confidence: 46
+2025-04-23 18:44:28,821 - INFO - Database Name result: None
+2025-04-23 18:44:28,821 - INFO - Database Roll_No result: None
+2025-04-23 18:44:28,822 - INFO - Database Student_ID result: None
+2025-04-23 18:44:28,822 - INFO - Unknown face detected, skipping attendance
+2025-04-23 18:44:29,339 - INFO - Database connection closed
+2025-04-23 18:44:29,384 - INFO - Predicted Student_ID: 2, Confidence: 46
+2025-04-23 18:44:29,487 - INFO - Database Name result: None
+2025-04-23 18:44:29,487 - INFO - Database Roll_No result: None
+2025-04-23 18:44:29,488 - INFO - Database Student_ID result: None
+2025-04-23 18:44:29,488 - INFO - Unknown face detected, skipping attendance
+2025-04-23 18:44:29,786 - INFO - Database connection closed
+2025-04-23 18:44:30,274 - INFO - Predicted Student_ID: 2, Confidence: 45
+2025-04-23 18:44:30,383 - INFO - Database Name result: None
+2025-04-23 18:44:30,384 - INFO - Database Roll_No result: None
+2025-04-23 18:44:30,385 - INFO - Database Student_ID result: None
+2025-04-23 18:44:30,386 - INFO - Unknown face detected, skipping attendance
+2025-04-23 18:44:30,905 - INFO - Database connection closed
+2025-04-23 18:44:30,954 - INFO - Predicted Student_ID: 2, Confidence: 46
+2025-04-23 18:44:31,052 - INFO - Database Name result: None
+2025-04-23 18:44:31,053 - INFO - Database Roll_No result: None
+2025-04-23 18:44:31,055 - INFO - Database Student_ID result: None
+2025-04-23 18:44:31,055 - INFO - Unknown face detected, skipping attendance
+2025-04-23 18:44:31,456 - INFO - Database connection closed
+2025-04-23 18:44:31,499 - INFO - Predicted Student_ID: 2, Confidence: 45
+2025-04-23 18:44:31,592 - INFO - Database Name result: None
+2025-04-23 18:44:31,594 - INFO - Database Roll_No result: None
+2025-04-23 18:44:31,595 - INFO - Database Student_ID result: None
+2025-04-23 18:44:31,595 - INFO - Unknown face detected, skipping attendance
+2025-04-23 18:44:34,903 - INFO - Database connection closed
+2025-04-23 18:45:34,695 - INFO - package: mysql.connector.plugins
+2025-04-23 18:45:34,695 - INFO - plugin_name: caching_sha2_password
+2025-04-23 18:45:34,695 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 20:42:38,682 - INFO - Starting face recognition session
+2025-04-23 20:42:39,795 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 20:42:39,979 - INFO - package: mysql.connector.plugins
+2025-04-23 20:42:39,980 - INFO - plugin_name: caching_sha2_password
+2025-04-23 20:42:39,980 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 20:42:39,984 - INFO - Database Name result: None
+2025-04-23 20:42:39,984 - INFO - Database Roll_No result: None
+2025-04-23 20:42:39,984 - INFO - Database Student_ID result: None
+2025-04-23 20:42:39,985 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:42:52,500 - INFO - Database connection closed
+2025-04-23 20:42:52,595 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 20:42:52,700 - INFO - Database Name result: None
+2025-04-23 20:42:52,701 - INFO - Database Roll_No result: None
+2025-04-23 20:42:52,701 - INFO - Database Student_ID result: None
+2025-04-23 20:42:52,702 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:42:53,746 - INFO - Database connection closed
+2025-04-23 20:42:53,817 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 20:42:53,920 - INFO - Database Name result: None
+2025-04-23 20:42:53,921 - INFO - Database Roll_No result: None
+2025-04-23 20:42:53,921 - INFO - Database Student_ID result: None
+2025-04-23 20:42:53,922 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:42:55,236 - INFO - Database connection closed
+2025-04-23 20:42:55,304 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 20:42:55,405 - INFO - Database Name result: None
+2025-04-23 20:42:55,405 - INFO - Database Roll_No result: None
+2025-04-23 20:42:55,406 - INFO - Database Student_ID result: None
+2025-04-23 20:42:55,406 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:42:55,904 - INFO - Database connection closed
+2025-04-23 20:42:55,975 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 20:42:56,072 - INFO - Database Name result: None
+2025-04-23 20:42:56,072 - INFO - Database Roll_No result: None
+2025-04-23 20:42:56,073 - INFO - Database Student_ID result: None
+2025-04-23 20:42:56,073 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:42:56,488 - INFO - Database connection closed
+2025-04-23 20:42:56,553 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 20:42:56,656 - INFO - Database Name result: None
+2025-04-23 20:42:56,658 - INFO - Database Roll_No result: None
+2025-04-23 20:42:56,658 - INFO - Database Student_ID result: None
+2025-04-23 20:42:56,659 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:42:56,918 - INFO - Database connection closed
+2025-04-23 20:42:56,987 - INFO - Predicted Student_ID: 2, Confidence: 74
+2025-04-23 20:42:57,092 - INFO - Database Name result: None
+2025-04-23 20:42:57,094 - INFO - Database Roll_No result: None
+2025-04-23 20:42:57,095 - INFO - Database Student_ID result: None
+2025-04-23 20:42:57,095 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:42:57,284 - INFO - Database connection closed
+2025-04-23 20:42:57,356 - INFO - Predicted Student_ID: 2, Confidence: 74
+2025-04-23 20:42:57,463 - INFO - Database Name result: None
+2025-04-23 20:42:57,465 - INFO - Database Roll_No result: None
+2025-04-23 20:42:57,465 - INFO - Database Student_ID result: None
+2025-04-23 20:42:57,466 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:42:57,948 - INFO - Database connection closed
+2025-04-23 20:42:58,018 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 20:42:58,116 - INFO - Database Name result: None
+2025-04-23 20:42:58,117 - INFO - Database Roll_No result: None
+2025-04-23 20:42:58,117 - INFO - Database Student_ID result: None
+2025-04-23 20:42:58,117 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:42:58,560 - INFO - Database connection closed
+2025-04-23 20:42:58,629 - INFO - Predicted Student_ID: 2, Confidence: 74
+2025-04-23 20:42:58,734 - INFO - Database Name result: None
+2025-04-23 20:42:58,734 - INFO - Database Roll_No result: None
+2025-04-23 20:42:58,735 - INFO - Database Student_ID result: None
+2025-04-23 20:42:58,735 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:43:00,172 - INFO - Database connection closed
+2025-04-23 20:43:00,237 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 20:43:00,338 - INFO - Database Name result: None
+2025-04-23 20:43:00,339 - INFO - Database Roll_No result: None
+2025-04-23 20:43:00,339 - INFO - Database Student_ID result: None
+2025-04-23 20:43:00,339 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:43:01,172 - INFO - Database connection closed
+2025-04-23 20:43:01,238 - INFO - Predicted Student_ID: 2, Confidence: 74
+2025-04-23 20:43:01,336 - INFO - Database Name result: None
+2025-04-23 20:43:01,337 - INFO - Database Roll_No result: None
+2025-04-23 20:43:01,338 - INFO - Database Student_ID result: None
+2025-04-23 20:43:01,338 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:43:01,751 - INFO - Database connection closed
+2025-04-23 20:43:01,818 - INFO - Predicted Student_ID: 2, Confidence: 74
+2025-04-23 20:43:01,910 - INFO - Database Name result: None
+2025-04-23 20:43:01,911 - INFO - Database Roll_No result: None
+2025-04-23 20:43:01,911 - INFO - Database Student_ID result: None
+2025-04-23 20:43:01,912 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:43:02,514 - INFO - Database connection closed
+2025-04-23 20:43:02,580 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 20:43:02,678 - INFO - Database Name result: None
+2025-04-23 20:43:02,678 - INFO - Database Roll_No result: None
+2025-04-23 20:43:02,679 - INFO - Database Student_ID result: None
+2025-04-23 20:43:02,679 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:43:02,922 - INFO - Database connection closed
+2025-04-23 20:43:03,001 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 20:43:03,098 - INFO - Database Name result: None
+2025-04-23 20:43:03,099 - INFO - Database Roll_No result: None
+2025-04-23 20:43:03,100 - INFO - Database Student_ID result: None
+2025-04-23 20:43:03,100 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:43:03,290 - INFO - Database connection closed
+2025-04-23 20:43:03,366 - INFO - Predicted Student_ID: 2, Confidence: 74
+2025-04-23 20:43:03,470 - INFO - Database Name result: None
+2025-04-23 20:43:03,470 - INFO - Database Roll_No result: None
+2025-04-23 20:43:03,471 - INFO - Database Student_ID result: None
+2025-04-23 20:43:03,471 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:43:03,943 - INFO - Database connection closed
+2025-04-23 20:43:04,016 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 20:43:04,117 - INFO - Database Name result: None
+2025-04-23 20:43:04,118 - INFO - Database Roll_No result: None
+2025-04-23 20:43:04,118 - INFO - Database Student_ID result: None
+2025-04-23 20:43:04,118 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:43:06,318 - INFO - Database connection closed
+2025-04-23 20:43:06,376 - INFO - Predicted Student_ID: 2, Confidence: 74
+2025-04-23 20:43:06,483 - INFO - Database Name result: None
+2025-04-23 20:43:06,483 - INFO - Database Roll_No result: None
+2025-04-23 20:43:06,484 - INFO - Database Student_ID result: None
+2025-04-23 20:43:06,484 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:43:08,261 - INFO - Database connection closed
+2025-04-23 20:43:08,330 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 20:43:08,428 - INFO - Database Name result: None
+2025-04-23 20:43:08,429 - INFO - Database Roll_No result: None
+2025-04-23 20:43:08,429 - INFO - Database Student_ID result: None
+2025-04-23 20:43:08,429 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:43:08,848 - INFO - Database connection closed
+2025-04-23 20:43:08,918 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 20:43:09,019 - INFO - Database Name result: None
+2025-04-23 20:43:09,021 - INFO - Database Roll_No result: None
+2025-04-23 20:43:09,022 - INFO - Database Student_ID result: None
+2025-04-23 20:43:09,022 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:43:09,232 - INFO - Database connection closed
+2025-04-23 20:43:09,301 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 20:43:09,405 - INFO - Database Name result: None
+2025-04-23 20:43:09,406 - INFO - Database Roll_No result: None
+2025-04-23 20:43:09,406 - INFO - Database Student_ID result: None
+2025-04-23 20:43:09,406 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:43:09,601 - INFO - Database connection closed
+2025-04-23 20:43:09,672 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 20:43:09,774 - INFO - Database Name result: None
+2025-04-23 20:43:09,775 - INFO - Database Roll_No result: None
+2025-04-23 20:43:09,776 - INFO - Database Student_ID result: None
+2025-04-23 20:43:09,776 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:43:09,974 - INFO - Database connection closed
+2025-04-23 20:43:10,048 - INFO - Predicted Student_ID: 2, Confidence: 73
+2025-04-23 20:43:10,151 - INFO - Database Name result: None
+2025-04-23 20:43:10,151 - INFO - Database Roll_No result: None
+2025-04-23 20:43:10,151 - INFO - Database Student_ID result: None
+2025-04-23 20:43:10,153 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:43:10,405 - INFO - Database connection closed
+2025-04-23 20:43:10,476 - INFO - Predicted Student_ID: 2, Confidence: 71
+2025-04-23 20:43:10,573 - INFO - Database Name result: None
+2025-04-23 20:43:10,574 - INFO - Database Roll_No result: None
+2025-04-23 20:43:10,574 - INFO - Database Student_ID result: None
+2025-04-23 20:43:10,574 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:43:10,762 - INFO - Database connection closed
+2025-04-23 20:43:10,818 - INFO - Predicted Student_ID: 2, Confidence: 71
+2025-04-23 20:43:10,920 - INFO - Database Name result: None
+2025-04-23 20:43:10,921 - INFO - Database Roll_No result: None
+2025-04-23 20:43:10,922 - INFO - Database Student_ID result: None
+2025-04-23 20:43:10,922 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:43:40,494 - INFO - Starting face recognition session
+2025-04-23 20:43:42,134 - INFO - Predicted Student_ID: 2, Confidence: 73
+2025-04-23 20:43:42,298 - INFO - package: mysql.connector.plugins
+2025-04-23 20:43:42,299 - INFO - plugin_name: caching_sha2_password
+2025-04-23 20:43:42,299 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 20:43:42,304 - INFO - Database Name result: None
+2025-04-23 20:43:42,305 - INFO - Database Roll_No result: None
+2025-04-23 20:43:42,306 - INFO - Database Student_ID result: None
+2025-04-23 20:43:42,306 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:43:43,923 - INFO - Database connection closed
+2025-04-23 20:43:44,039 - INFO - Predicted Student_ID: 2, Confidence: 77
+2025-04-23 20:43:44,165 - INFO - Database Name result: None
+2025-04-23 20:43:44,166 - INFO - Database Roll_No result: None
+2025-04-23 20:43:44,167 - INFO - Database Student_ID result: None
+2025-04-23 20:43:44,168 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:43:45,211 - INFO - Database connection closed
+2025-04-23 20:43:45,282 - INFO - Predicted Student_ID: 2, Confidence: 73
+2025-04-23 20:43:45,392 - INFO - Database Name result: None
+2025-04-23 20:43:45,393 - INFO - Database Roll_No result: None
+2025-04-23 20:43:45,394 - INFO - Database Student_ID result: None
+2025-04-23 20:43:45,394 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:43:45,822 - INFO - Database connection closed
+2025-04-23 20:43:45,879 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 20:43:45,992 - INFO - Database Name result: None
+2025-04-23 20:43:45,993 - INFO - Database Roll_No result: None
+2025-04-23 20:43:45,994 - INFO - Database Student_ID result: None
+2025-04-23 20:43:45,994 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:43:46,251 - INFO - Database connection closed
+2025-04-23 20:43:46,320 - INFO - Predicted Student_ID: 2, Confidence: 77
+2025-04-23 20:43:46,417 - INFO - Database Name result: None
+2025-04-23 20:43:46,417 - INFO - Database Roll_No result: None
+2025-04-23 20:43:46,418 - INFO - Database Student_ID result: None
+2025-04-23 20:43:46,418 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:43:46,639 - INFO - Database connection closed
+2025-04-23 20:43:46,698 - INFO - Predicted Student_ID: 2, Confidence: 75
+2025-04-23 20:43:46,797 - INFO - Database Name result: None
+2025-04-23 20:43:46,797 - INFO - Database Roll_No result: None
+2025-04-23 20:43:46,798 - INFO - Database Student_ID result: None
+2025-04-23 20:43:46,798 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:43:47,278 - INFO - Database connection closed
+2025-04-23 20:43:47,342 - INFO - Predicted Student_ID: 2, Confidence: 76
+2025-04-23 20:43:47,444 - INFO - Database Name result: None
+2025-04-23 20:43:47,445 - INFO - Database Roll_No result: None
+2025-04-23 20:43:47,445 - INFO - Database Student_ID result: None
+2025-04-23 20:43:47,445 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:43:55,344 - INFO - Database connection closed
+2025-04-23 20:43:55,434 - INFO - Predicted Student_ID: 2, Confidence: 76
+2025-04-23 20:43:55,533 - INFO - Database Name result: None
+2025-04-23 20:43:55,534 - INFO - Database Roll_No result: None
+2025-04-23 20:43:55,534 - INFO - Database Student_ID result: None
+2025-04-23 20:43:55,534 - INFO - Unknown face detected, skipping attendance
+2025-04-23 20:43:56,799 - INFO - Database connection closed
+2025-04-23 20:43:56,867 - INFO - Predicted Student_ID: 2, Confidence: 74
+2025-04-23 20:43:56,971 - INFO - Database Name result: None
+2025-04-23 20:43:56,972 - INFO - Database Roll_No result: None
+2025-04-23 20:43:56,972 - INFO - Database Student_ID result: None
+2025-04-23 20:43:56,973 - INFO - Unknown face detected, skipping attendance
+2025-04-23 21:01:30,080 - INFO - Starting face recognition session
+2025-04-23 21:01:31,246 - INFO - Predicted Student_ID: 2, Confidence: 73
+2025-04-23 21:01:31,410 - INFO - package: mysql.connector.plugins
+2025-04-23 21:01:31,411 - INFO - plugin_name: caching_sha2_password
+2025-04-23 21:01:31,411 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 21:01:31,414 - INFO - Database Name result: None
+2025-04-23 21:01:31,415 - INFO - Database Roll_No result: None
+2025-04-23 21:01:31,416 - INFO - Database Student_ID result: None
+2025-04-23 21:01:31,416 - INFO - Unknown face detected, skipping attendance
+2025-04-23 21:01:33,186 - INFO - Database connection closed
+2025-04-23 21:01:33,295 - INFO - Predicted Student_ID: 2, Confidence: 73
+2025-04-23 21:01:33,390 - INFO - Database Name result: None
+2025-04-23 21:01:33,391 - INFO - Database Roll_No result: None
+2025-04-23 21:01:33,391 - INFO - Database Student_ID result: None
+2025-04-23 21:01:33,392 - INFO - Unknown face detected, skipping attendance
+2025-04-23 21:01:34,405 - INFO - Database connection closed
+2025-04-23 21:01:34,491 - INFO - Predicted Student_ID: 2, Confidence: 74
+2025-04-23 21:01:34,583 - INFO - Database Name result: None
+2025-04-23 21:01:34,585 - INFO - Database Roll_No result: None
+2025-04-23 21:01:34,586 - INFO - Database Student_ID result: None
+2025-04-23 21:01:34,586 - INFO - Unknown face detected, skipping attendance
+2025-04-23 21:01:35,353 - INFO - Database connection closed
+2025-04-23 21:01:35,436 - INFO - Predicted Student_ID: 2, Confidence: 73
+2025-04-23 21:01:35,535 - INFO - Database Name result: None
+2025-04-23 21:01:35,536 - INFO - Database Roll_No result: None
+2025-04-23 21:01:35,537 - INFO - Database Student_ID result: None
+2025-04-23 21:01:35,537 - INFO - Unknown face detected, skipping attendance
+2025-04-23 21:01:35,818 - INFO - Database connection closed
+2025-04-23 21:01:35,910 - INFO - Predicted Student_ID: 2, Confidence: 72
+2025-04-23 21:01:36,004 - INFO - Database Name result: None
+2025-04-23 21:01:36,004 - INFO - Database Roll_No result: None
+2025-04-23 21:01:36,005 - INFO - Database Student_ID result: None
+2025-04-23 21:01:36,005 - INFO - Unknown face detected, skipping attendance
+2025-04-23 21:01:36,213 - INFO - Database connection closed
+2025-04-23 21:01:36,294 - INFO - Predicted Student_ID: 2, Confidence: 73
+2025-04-23 21:01:36,393 - INFO - Database Name result: None
+2025-04-23 21:01:36,394 - INFO - Database Roll_No result: None
+2025-04-23 21:01:36,394 - INFO - Database Student_ID result: None
+2025-04-23 21:01:36,394 - INFO - Unknown face detected, skipping attendance
+2025-04-23 21:01:36,638 - INFO - Database connection closed
+2025-04-23 21:01:36,724 - INFO - Predicted Student_ID: 2, Confidence: 73
+2025-04-23 21:01:36,828 - INFO - Database Name result: None
+2025-04-23 21:01:36,829 - INFO - Database Roll_No result: None
+2025-04-23 21:01:36,829 - INFO - Database Student_ID result: None
+2025-04-23 21:01:36,830 - INFO - Unknown face detected, skipping attendance
+2025-04-23 21:01:37,024 - INFO - Database connection closed
+2025-04-23 21:01:37,108 - INFO - Predicted Student_ID: 2, Confidence: 73
+2025-04-23 21:01:37,209 - INFO - Database Name result: None
+2025-04-23 21:01:37,210 - INFO - Database Roll_No result: None
+2025-04-23 21:01:37,211 - INFO - Database Student_ID result: None
+2025-04-23 21:01:37,211 - INFO - Unknown face detected, skipping attendance
+2025-04-23 21:01:37,436 - INFO - Database connection closed
+2025-04-23 21:01:37,520 - INFO - Predicted Student_ID: 2, Confidence: 73
+2025-04-23 21:01:37,621 - INFO - Database Name result: None
+2025-04-23 21:01:37,621 - INFO - Database Roll_No result: None
+2025-04-23 21:01:37,622 - INFO - Database Student_ID result: None
+2025-04-23 21:01:37,622 - INFO - Unknown face detected, skipping attendance
+2025-04-23 21:01:37,991 - INFO - Database connection closed
+2025-04-23 21:01:38,073 - INFO - Predicted Student_ID: 2, Confidence: 72
+2025-04-23 21:01:38,166 - INFO - Database Name result: None
+2025-04-23 21:01:38,167 - INFO - Database Roll_No result: None
+2025-04-23 21:01:38,167 - INFO - Database Student_ID result: None
+2025-04-23 21:01:38,168 - INFO - Unknown face detected, skipping attendance
+2025-04-23 21:01:38,522 - INFO - Database connection closed
+2025-04-23 21:01:38,599 - INFO - Predicted Student_ID: 2, Confidence: 73
+2025-04-23 21:01:38,694 - INFO - Database Name result: None
+2025-04-23 21:01:38,695 - INFO - Database Roll_No result: None
+2025-04-23 21:01:38,696 - INFO - Database Student_ID result: None
+2025-04-23 21:01:38,696 - INFO - Unknown face detected, skipping attendance
+2025-04-23 21:01:42,788 - INFO - Database connection closed
+2025-04-23 21:01:42,893 - INFO - Predicted Student_ID: 2, Confidence: 72
+2025-04-23 21:01:42,996 - INFO - Database Name result: None
+2025-04-23 21:01:42,997 - INFO - Database Roll_No result: None
+2025-04-23 21:01:42,998 - INFO - Database Student_ID result: None
+2025-04-23 21:01:42,998 - INFO - Unknown face detected, skipping attendance
+2025-04-23 21:01:43,892 - INFO - Database connection closed
+2025-04-23 21:01:43,975 - INFO - Predicted Student_ID: 2, Confidence: 73
+2025-04-23 21:01:44,077 - INFO - Database Name result: None
+2025-04-23 21:01:44,078 - INFO - Database Roll_No result: None
+2025-04-23 21:01:44,079 - INFO - Database Student_ID result: None
+2025-04-23 21:01:44,079 - INFO - Unknown face detected, skipping attendance
+2025-04-23 21:01:46,437 - INFO - Database connection closed
+2025-04-23 21:01:46,522 - INFO - Predicted Student_ID: 2, Confidence: 72
+2025-04-23 21:01:46,617 - INFO - Database Name result: None
+2025-04-23 21:01:46,617 - INFO - Database Roll_No result: None
+2025-04-23 21:01:46,618 - INFO - Database Student_ID result: None
+2025-04-23 21:01:46,618 - INFO - Unknown face detected, skipping attendance
+2025-04-23 21:01:48,726 - INFO - Database connection closed
+2025-04-23 21:01:48,823 - INFO - Predicted Student_ID: 2, Confidence: 71
+2025-04-23 21:01:48,917 - INFO - Database Name result: None
+2025-04-23 21:01:48,917 - INFO - Database Roll_No result: None
+2025-04-23 21:01:48,918 - INFO - Database Student_ID result: None
+2025-04-23 21:01:48,918 - INFO - Unknown face detected, skipping attendance
+2025-04-25 14:44:37,098 - INFO - Starting face recognition session
+2025-04-25 14:44:39,711 - INFO - Predicted Student_ID: 21210788, Confidence: 76
+2025-04-25 14:44:39,871 - INFO - package: mysql.connector.plugins
+2025-04-25 14:44:39,871 - INFO - plugin_name: caching_sha2_password
+2025-04-25 14:44:39,872 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-25 14:44:39,876 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:42,910 - INFO - Database connection closed
+2025-04-25 14:44:48,184 - INFO - Predicted Student_ID: 21210788, Confidence: 78
+2025-04-25 14:44:48,286 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:48,287 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:48,287 - INFO - Database connection closed
+2025-04-25 14:44:48,355 - INFO - Predicted Student_ID: 21210788, Confidence: 77
+2025-04-25 14:44:48,470 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:48,470 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:48,471 - INFO - Database connection closed
+2025-04-25 14:44:48,534 - INFO - Predicted Student_ID: 21210788, Confidence: 78
+2025-04-25 14:44:48,635 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:48,636 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:48,636 - INFO - Database connection closed
+2025-04-25 14:44:48,699 - INFO - Predicted Student_ID: 21210788, Confidence: 75
+2025-04-25 14:44:48,798 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:48,798 - INFO - Unknown face detected
+2025-04-25 14:44:48,798 - INFO - Database connection closed
+2025-04-25 14:44:48,853 - INFO - Predicted Student_ID: 21210788, Confidence: 75
+2025-04-25 14:44:48,953 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:48,954 - INFO - Unknown face detected
+2025-04-25 14:44:48,954 - INFO - Database connection closed
+2025-04-25 14:44:49,012 - INFO - Predicted Student_ID: 21210788, Confidence: 75
+2025-04-25 14:44:49,111 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:49,111 - INFO - Unknown face detected
+2025-04-25 14:44:49,111 - INFO - Database connection closed
+2025-04-25 14:44:49,165 - INFO - Predicted Student_ID: 21210788, Confidence: 75
+2025-04-25 14:44:49,271 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:49,271 - INFO - Unknown face detected
+2025-04-25 14:44:49,272 - INFO - Database connection closed
+2025-04-25 14:44:49,337 - INFO - Predicted Student_ID: 21210788, Confidence: 74
+2025-04-25 14:44:49,433 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:49,433 - INFO - Unknown face detected
+2025-04-25 14:44:49,434 - INFO - Database connection closed
+2025-04-25 14:44:49,508 - INFO - Predicted Student_ID: 21210788, Confidence: 76
+2025-04-25 14:44:49,613 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:49,613 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:49,614 - INFO - Database connection closed
+2025-04-25 14:44:49,684 - INFO - Predicted Student_ID: 21210788, Confidence: 72
+2025-04-25 14:44:49,786 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:49,786 - INFO - Unknown face detected
+2025-04-25 14:44:49,786 - INFO - Database connection closed
+2025-04-25 14:44:54,816 - INFO - Predicted Student_ID: 21210788, Confidence: 78
+2025-04-25 14:44:54,918 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:54,919 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:54,919 - INFO - Database connection closed
+2025-04-25 14:44:54,983 - INFO - Predicted Student_ID: 21210788, Confidence: 79
+2025-04-25 14:44:55,083 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:55,084 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:55,084 - INFO - Database connection closed
+2025-04-25 14:44:55,147 - INFO - Predicted Student_ID: 21210788, Confidence: 81
+2025-04-25 14:44:55,251 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:55,252 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:55,253 - INFO - Database connection closed
+2025-04-25 14:44:55,323 - INFO - Predicted Student_ID: 21210788, Confidence: 81
+2025-04-25 14:44:55,420 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:55,421 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:55,421 - INFO - Database connection closed
+2025-04-25 14:44:55,497 - INFO - Predicted Student_ID: 21210788, Confidence: 81
+2025-04-25 14:44:55,611 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:55,612 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:55,612 - INFO - Database connection closed
+2025-04-25 14:44:55,684 - INFO - Predicted Student_ID: 21210788, Confidence: 81
+2025-04-25 14:44:55,781 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:55,781 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:55,782 - INFO - Database connection closed
+2025-04-25 14:44:55,845 - INFO - Predicted Student_ID: 21210788, Confidence: 81
+2025-04-25 14:44:55,943 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:55,944 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:55,944 - INFO - Database connection closed
+2025-04-25 14:44:56,004 - INFO - Predicted Student_ID: 21210788, Confidence: 80
+2025-04-25 14:44:56,105 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:56,105 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:56,106 - INFO - Database connection closed
+2025-04-25 14:44:56,170 - INFO - Predicted Student_ID: 21210788, Confidence: 81
+2025-04-25 14:44:56,270 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:56,271 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:56,271 - INFO - Database connection closed
+2025-04-25 14:44:56,345 - INFO - Predicted Student_ID: 21210788, Confidence: 81
+2025-04-25 14:44:56,443 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:56,444 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:56,444 - INFO - Database connection closed
+2025-04-25 14:44:56,516 - INFO - Predicted Student_ID: 21210788, Confidence: 82
+2025-04-25 14:44:56,613 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:56,613 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:56,614 - INFO - Database connection closed
+2025-04-25 14:44:56,686 - INFO - Predicted Student_ID: 21210788, Confidence: 80
+2025-04-25 14:44:56,781 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:56,782 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:56,782 - INFO - Database connection closed
+2025-04-25 14:44:56,907 - INFO - Predicted Student_ID: 21210788, Confidence: 80
+2025-04-25 14:44:57,011 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:57,012 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:57,013 - INFO - Database connection closed
+2025-04-25 14:44:57,076 - INFO - Predicted Student_ID: 21210788, Confidence: 80
+2025-04-25 14:44:57,174 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:57,175 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:57,175 - INFO - Database connection closed
+2025-04-25 14:44:57,236 - INFO - Predicted Student_ID: 21210788, Confidence: 80
+2025-04-25 14:44:57,336 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:57,336 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:57,336 - INFO - Database connection closed
+2025-04-25 14:44:57,398 - INFO - Predicted Student_ID: 21210788, Confidence: 80
+2025-04-25 14:44:57,499 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:57,499 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:57,500 - INFO - Database connection closed
+2025-04-25 14:44:57,565 - INFO - Predicted Student_ID: 21210788, Confidence: 79
+2025-04-25 14:44:57,666 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:57,667 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:57,668 - INFO - Database connection closed
+2025-04-25 14:44:57,730 - INFO - Predicted Student_ID: 21210788, Confidence: 80
+2025-04-25 14:44:57,841 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:57,842 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:57,843 - INFO - Database connection closed
+2025-04-25 14:44:57,902 - INFO - Predicted Student_ID: 21210788, Confidence: 80
+2025-04-25 14:44:58,010 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:58,010 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:58,011 - INFO - Database connection closed
+2025-04-25 14:44:58,074 - INFO - Predicted Student_ID: 21210788, Confidence: 80
+2025-04-25 14:44:58,176 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:58,177 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:58,177 - INFO - Database connection closed
+2025-04-25 14:44:58,237 - INFO - Predicted Student_ID: 21210788, Confidence: 80
+2025-04-25 14:44:58,333 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:58,334 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:58,334 - INFO - Database connection closed
+2025-04-25 14:44:58,402 - INFO - Predicted Student_ID: 21210788, Confidence: 80
+2025-04-25 14:44:58,504 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:58,505 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:58,506 - INFO - Database connection closed
+2025-04-25 14:44:58,576 - INFO - Predicted Student_ID: 21210788, Confidence: 80
+2025-04-25 14:44:58,675 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:58,677 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:58,678 - INFO - Database connection closed
+2025-04-25 14:44:58,739 - INFO - Predicted Student_ID: 21210788, Confidence: 81
+2025-04-25 14:44:58,845 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:58,846 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:58,847 - INFO - Database connection closed
+2025-04-25 14:44:58,907 - INFO - Predicted Student_ID: 21210788, Confidence: 80
+2025-04-25 14:44:59,018 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:59,019 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:59,019 - INFO - Database connection closed
+2025-04-25 14:44:59,079 - INFO - Predicted Student_ID: 21210788, Confidence: 81
+2025-04-25 14:44:59,176 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:59,177 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:59,177 - INFO - Database connection closed
+2025-04-25 14:44:59,349 - INFO - Predicted Student_ID: 21210788, Confidence: 81
+2025-04-25 14:44:59,459 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:44:59,460 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:44:59,460 - INFO - Database connection closed
+2025-04-25 14:45:00,227 - INFO - Predicted Student_ID: 21210788, Confidence: 80
+2025-04-25 14:45:00,327 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:00,328 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:00,329 - INFO - Database connection closed
+2025-04-25 14:45:01,256 - INFO - Predicted Student_ID: 21210788, Confidence: 81
+2025-04-25 14:45:01,367 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:01,368 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:01,368 - INFO - Database connection closed
+2025-04-25 14:45:01,442 - INFO - Predicted Student_ID: 21210788, Confidence: 81
+2025-04-25 14:45:01,545 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:01,545 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:01,546 - INFO - Database connection closed
+2025-04-25 14:45:01,769 - INFO - Predicted Student_ID: 21210788, Confidence: 81
+2025-04-25 14:45:01,885 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:01,886 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:01,886 - INFO - Database connection closed
+2025-04-25 14:45:01,956 - INFO - Predicted Student_ID: 21210788, Confidence: 81
+2025-04-25 14:45:02,056 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:02,056 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:02,057 - INFO - Database connection closed
+2025-04-25 14:45:02,124 - INFO - Predicted Student_ID: 21210788, Confidence: 81
+2025-04-25 14:45:02,225 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:02,226 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:02,226 - INFO - Database connection closed
+2025-04-25 14:45:02,375 - INFO - Predicted Student_ID: 21210788, Confidence: 80
+2025-04-25 14:45:02,480 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:02,480 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:02,481 - INFO - Database connection closed
+2025-04-25 14:45:02,544 - INFO - Predicted Student_ID: 21210788, Confidence: 80
+2025-04-25 14:45:02,645 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:02,645 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:02,646 - INFO - Database connection closed
+2025-04-25 14:45:02,716 - INFO - Predicted Student_ID: 21210788, Confidence: 80
+2025-04-25 14:45:02,820 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:02,820 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:02,821 - INFO - Database connection closed
+2025-04-25 14:45:02,885 - INFO - Predicted Student_ID: 21210788, Confidence: 80
+2025-04-25 14:45:02,993 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:02,993 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:02,994 - INFO - Database connection closed
+2025-04-25 14:45:03,062 - INFO - Predicted Student_ID: 21210788, Confidence: 80
+2025-04-25 14:45:03,162 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:03,163 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:03,163 - INFO - Database connection closed
+2025-04-25 14:45:03,236 - INFO - Predicted Student_ID: 21210788, Confidence: 80
+2025-04-25 14:45:03,335 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:03,336 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:03,336 - INFO - Database connection closed
+2025-04-25 14:45:03,408 - INFO - Predicted Student_ID: 21210788, Confidence: 80
+2025-04-25 14:45:03,510 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:03,511 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:03,512 - INFO - Database connection closed
+2025-04-25 14:45:03,582 - INFO - Predicted Student_ID: 21210788, Confidence: 80
+2025-04-25 14:45:03,682 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:03,683 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:03,683 - INFO - Database connection closed
+2025-04-25 14:45:03,767 - INFO - Predicted Student_ID: 21210788, Confidence: 79
+2025-04-25 14:45:03,870 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:03,871 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:03,871 - INFO - Database connection closed
+2025-04-25 14:45:03,944 - INFO - Predicted Student_ID: 21210788, Confidence: 79
+2025-04-25 14:45:04,053 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:04,055 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:04,055 - INFO - Database connection closed
+2025-04-25 14:45:04,124 - INFO - Predicted Student_ID: 21210788, Confidence: 80
+2025-04-25 14:45:04,233 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:04,234 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:04,234 - INFO - Database connection closed
+2025-04-25 14:45:04,313 - INFO - Predicted Student_ID: 21210788, Confidence: 79
+2025-04-25 14:45:04,411 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:04,412 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:04,412 - INFO - Database connection closed
+2025-04-25 14:45:04,481 - INFO - Predicted Student_ID: 21210788, Confidence: 78
+2025-04-25 14:45:04,577 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:04,579 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:04,579 - INFO - Database connection closed
+2025-04-25 14:45:04,668 - INFO - Predicted Student_ID: 21210788, Confidence: 78
+2025-04-25 14:45:04,777 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:04,777 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:04,778 - INFO - Database connection closed
+2025-04-25 14:45:04,851 - INFO - Predicted Student_ID: 21210788, Confidence: 78
+2025-04-25 14:45:04,951 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:04,952 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:04,953 - INFO - Database connection closed
+2025-04-25 14:45:05,028 - INFO - Predicted Student_ID: 21210788, Confidence: 78
+2025-04-25 14:45:05,138 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:05,139 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:05,140 - INFO - Database connection closed
+2025-04-25 14:45:05,215 - INFO - Predicted Student_ID: 21210788, Confidence: 79
+2025-04-25 14:45:05,325 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:05,325 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:05,325 - INFO - Database connection closed
+2025-04-25 14:45:05,401 - INFO - Predicted Student_ID: 21210788, Confidence: 79
+2025-04-25 14:45:05,502 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:05,503 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:05,503 - INFO - Database connection closed
+2025-04-25 14:45:05,573 - INFO - Predicted Student_ID: 21210788, Confidence: 79
+2025-04-25 14:45:05,670 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:05,671 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:05,671 - INFO - Database connection closed
+2025-04-25 14:45:05,740 - INFO - Predicted Student_ID: 21210788, Confidence: 79
+2025-04-25 14:45:05,854 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:05,855 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:05,855 - INFO - Database connection closed
+2025-04-25 14:45:05,930 - INFO - Predicted Student_ID: 21210788, Confidence: 80
+2025-04-25 14:45:06,046 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:06,047 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:06,047 - INFO - Database connection closed
+2025-04-25 14:45:06,119 - INFO - Predicted Student_ID: 21210788, Confidence: 79
+2025-04-25 14:45:06,219 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:06,220 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:06,220 - INFO - Database connection closed
+2025-04-25 14:45:06,292 - INFO - Predicted Student_ID: 21210788, Confidence: 79
+2025-04-25 14:45:06,399 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:06,400 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:06,400 - INFO - Database connection closed
+2025-04-25 14:45:06,464 - INFO - Predicted Student_ID: 21210788, Confidence: 79
+2025-04-25 14:45:06,563 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:06,564 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:06,565 - INFO - Database connection closed
+2025-04-25 14:45:06,638 - INFO - Predicted Student_ID: 21210788, Confidence: 79
+2025-04-25 14:45:06,734 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:06,735 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:06,735 - INFO - Database connection closed
+2025-04-25 14:45:06,806 - INFO - Predicted Student_ID: 21210788, Confidence: 79
+2025-04-25 14:45:06,901 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:06,902 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:06,902 - INFO - Database connection closed
+2025-04-25 14:45:06,964 - INFO - Predicted Student_ID: 21210788, Confidence: 79
+2025-04-25 14:45:07,067 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:07,067 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:07,068 - INFO - Database connection closed
+2025-04-25 14:45:07,132 - INFO - Predicted Student_ID: 21210788, Confidence: 79
+2025-04-25 14:45:07,227 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:07,228 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:07,228 - INFO - Database connection closed
+2025-04-25 14:45:07,298 - INFO - Predicted Student_ID: 21210788, Confidence: 78
+2025-04-25 14:45:07,401 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:07,403 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:07,404 - INFO - Database connection closed
+2025-04-25 14:45:08,042 - INFO - Predicted Student_ID: 21210788, Confidence: 73
+2025-04-25 14:45:08,143 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:08,143 - INFO - Unknown face detected
+2025-04-25 14:45:08,144 - INFO - Database connection closed
+2025-04-25 14:45:08,194 - INFO - Predicted Student_ID: 21210788, Confidence: 67
+2025-04-25 14:45:08,291 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:08,291 - INFO - Unknown face detected
+2025-04-25 14:45:08,292 - INFO - Database connection closed
+2025-04-25 14:45:08,369 - INFO - Predicted Student_ID: 21210788, Confidence: 69
+2025-04-25 14:45:08,479 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:08,479 - INFO - Unknown face detected
+2025-04-25 14:45:08,480 - INFO - Database connection closed
+2025-04-25 14:45:08,552 - INFO - Predicted Student_ID: 21210788, Confidence: 70
+2025-04-25 14:45:08,653 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:08,653 - INFO - Unknown face detected
+2025-04-25 14:45:08,654 - INFO - Database connection closed
+2025-04-25 14:45:10,446 - INFO - Predicted Student_ID: 21210788, Confidence: 70
+2025-04-25 14:45:10,546 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:10,547 - INFO - Unknown face detected
+2025-04-25 14:45:10,547 - INFO - Database connection closed
+2025-04-25 14:45:10,624 - INFO - Predicted Student_ID: 21210788, Confidence: 68
+2025-04-25 14:45:10,723 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:10,723 - INFO - Unknown face detected
+2025-04-25 14:45:10,724 - INFO - Database connection closed
+2025-04-25 14:45:12,275 - INFO - Predicted Student_ID: 21210788, Confidence: 66
+2025-04-25 14:45:12,376 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:12,377 - INFO - Unknown face detected
+2025-04-25 14:45:12,377 - INFO - Database connection closed
+2025-04-25 14:45:12,450 - INFO - Predicted Student_ID: 21210788, Confidence: 71
+2025-04-25 14:45:12,547 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:12,548 - INFO - Unknown face detected
+2025-04-25 14:45:12,548 - INFO - Database connection closed
+2025-04-25 14:45:12,611 - INFO - Predicted Student_ID: 21210788, Confidence: 74
+2025-04-25 14:45:12,708 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:12,708 - INFO - Unknown face detected
+2025-04-25 14:45:12,708 - INFO - Database connection closed
+2025-04-25 14:45:12,793 - INFO - Predicted Student_ID: 21210788, Confidence: 74
+2025-04-25 14:45:12,892 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:12,893 - INFO - Unknown face detected
+2025-04-25 14:45:12,893 - INFO - Database connection closed
+2025-04-25 14:45:15,062 - INFO - Predicted Student_ID: 21210788, Confidence: 76
+2025-04-25 14:45:15,172 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:15,174 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:15,174 - INFO - Database connection closed
+2025-04-25 14:45:16,129 - INFO - Predicted Student_ID: 21210788, Confidence: 75
+2025-04-25 14:45:16,228 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:16,228 - INFO - Unknown face detected
+2025-04-25 14:45:16,228 - INFO - Database connection closed
+2025-04-25 14:45:16,446 - INFO - Predicted Student_ID: 21210788, Confidence: 70
+2025-04-25 14:45:16,549 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:16,550 - INFO - Unknown face detected
+2025-04-25 14:45:16,550 - INFO - Database connection closed
+2025-04-25 14:45:20,079 - INFO - Predicted Student_ID: 21210788, Confidence: 75
+2025-04-25 14:45:20,188 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:20,188 - INFO - Unknown face detected
+2025-04-25 14:45:20,189 - INFO - Database connection closed
+2025-04-25 14:45:20,387 - INFO - Predicted Student_ID: 21210788, Confidence: 75
+2025-04-25 14:45:20,484 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:20,484 - INFO - Unknown face detected
+2025-04-25 14:45:20,485 - INFO - Database connection closed
+2025-04-25 14:45:23,071 - INFO - Predicted Student_ID: 21210788, Confidence: 73
+2025-04-25 14:45:23,187 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:23,188 - INFO - Unknown face detected
+2025-04-25 14:45:23,188 - INFO - Database connection closed
+2025-04-25 14:45:23,265 - INFO - Predicted Student_ID: 21210788, Confidence: 74
+2025-04-25 14:45:23,364 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:23,365 - INFO - Unknown face detected
+2025-04-25 14:45:23,365 - INFO - Database connection closed
+2025-04-25 14:45:24,645 - INFO - Predicted Student_ID: 21210788, Confidence: 77
+2025-04-25 14:45:24,761 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:24,762 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:24,762 - INFO - Database connection closed
+2025-04-25 14:45:24,834 - INFO - Predicted Student_ID: 21210788, Confidence: 77
+2025-04-25 14:45:24,943 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:24,944 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:24,944 - INFO - Database connection closed
+2025-04-25 14:45:25,468 - INFO - Predicted Student_ID: 21210788, Confidence: 73
+2025-04-25 14:45:25,566 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:25,566 - INFO - Unknown face detected
+2025-04-25 14:45:25,567 - INFO - Database connection closed
+2025-04-25 14:45:25,632 - INFO - Predicted Student_ID: 21210788, Confidence: 74
+2025-04-25 14:45:25,732 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:25,732 - INFO - Unknown face detected
+2025-04-25 14:45:25,733 - INFO - Database connection closed
+2025-04-25 14:45:25,920 - INFO - Predicted Student_ID: 21210788, Confidence: 73
+2025-04-25 14:45:26,023 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:26,023 - INFO - Unknown face detected
+2025-04-25 14:45:26,024 - INFO - Database connection closed
+2025-04-25 14:45:26,093 - INFO - Predicted Student_ID: 21210788, Confidence: 72
+2025-04-25 14:45:26,191 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:26,192 - INFO - Unknown face detected
+2025-04-25 14:45:26,192 - INFO - Database connection closed
+2025-04-25 14:45:26,263 - INFO - Predicted Student_ID: 21210788, Confidence: 75
+2025-04-25 14:45:26,364 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:26,365 - INFO - Unknown face detected
+2025-04-25 14:45:26,365 - INFO - Database connection closed
+2025-04-25 14:45:26,434 - INFO - Predicted Student_ID: 21210788, Confidence: 73
+2025-04-25 14:45:26,542 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:26,543 - INFO - Unknown face detected
+2025-04-25 14:45:26,543 - INFO - Database connection closed
+2025-04-25 14:45:26,814 - INFO - Predicted Student_ID: 21210788, Confidence: 74
+2025-04-25 14:45:26,933 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:26,933 - INFO - Unknown face detected
+2025-04-25 14:45:26,935 - INFO - Database connection closed
+2025-04-25 14:45:27,017 - INFO - Predicted Student_ID: 21210788, Confidence: 76
+2025-04-25 14:45:27,126 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:27,127 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:27,128 - INFO - Database connection closed
+2025-04-25 14:45:28,191 - INFO - Predicted Student_ID: 21210788, Confidence: 72
+2025-04-25 14:45:28,297 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:28,298 - INFO - Unknown face detected
+2025-04-25 14:45:28,298 - INFO - Database connection closed
+2025-04-25 14:45:28,375 - INFO - Predicted Student_ID: 21210788, Confidence: 72
+2025-04-25 14:45:28,493 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:28,494 - INFO - Unknown face detected
+2025-04-25 14:45:28,494 - INFO - Database connection closed
+2025-04-25 14:45:28,571 - INFO - Predicted Student_ID: 21210788, Confidence: 76
+2025-04-25 14:45:28,668 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:28,669 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:28,670 - INFO - Database connection closed
+2025-04-25 14:45:28,747 - INFO - Predicted Student_ID: 21210788, Confidence: 76
+2025-04-25 14:45:28,843 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:28,844 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:28,845 - INFO - Database connection closed
+2025-04-25 14:45:28,916 - INFO - Predicted Student_ID: 21210788, Confidence: 76
+2025-04-25 14:45:29,016 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:29,016 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:29,017 - INFO - Database connection closed
+2025-04-25 14:45:29,077 - INFO - Predicted Student_ID: 21210788, Confidence: 75
+2025-04-25 14:45:29,173 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:29,173 - INFO - Unknown face detected
+2025-04-25 14:45:29,174 - INFO - Database connection closed
+2025-04-25 14:45:29,241 - INFO - Predicted Student_ID: 21210788, Confidence: 76
+2025-04-25 14:45:29,341 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:29,342 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:29,342 - INFO - Database connection closed
+2025-04-25 14:45:29,414 - INFO - Predicted Student_ID: 21210788, Confidence: 77
+2025-04-25 14:45:29,512 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:29,513 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:29,513 - INFO - Database connection closed
+2025-04-25 14:45:29,603 - INFO - Predicted Student_ID: 21210788, Confidence: 75
+2025-04-25 14:45:29,705 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:29,705 - INFO - Unknown face detected
+2025-04-25 14:45:29,706 - INFO - Database connection closed
+2025-04-25 14:45:29,786 - INFO - Predicted Student_ID: 21210788, Confidence: 76
+2025-04-25 14:45:29,886 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:29,887 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:29,888 - INFO - Database connection closed
+2025-04-25 14:45:29,963 - INFO - Predicted Student_ID: 21210788, Confidence: 75
+2025-04-25 14:45:30,068 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:30,069 - INFO - Unknown face detected
+2025-04-25 14:45:30,069 - INFO - Database connection closed
+2025-04-25 14:45:30,142 - INFO - Predicted Student_ID: 21210788, Confidence: 76
+2025-04-25 14:45:30,246 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:30,247 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:30,247 - INFO - Database connection closed
+2025-04-25 14:45:30,321 - INFO - Predicted Student_ID: 21210788, Confidence: 75
+2025-04-25 14:45:30,425 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:30,425 - INFO - Unknown face detected
+2025-04-25 14:45:30,426 - INFO - Database connection closed
+2025-04-25 14:45:30,492 - INFO - Predicted Student_ID: 21210788, Confidence: 76
+2025-04-25 14:45:30,591 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:30,592 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:30,593 - INFO - Database connection closed
+2025-04-25 14:45:30,663 - INFO - Predicted Student_ID: 21210788, Confidence: 75
+2025-04-25 14:45:30,762 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:30,762 - INFO - Unknown face detected
+2025-04-25 14:45:30,762 - INFO - Database connection closed
+2025-04-25 14:45:30,824 - INFO - Predicted Student_ID: 21210788, Confidence: 75
+2025-04-25 14:45:30,925 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:30,925 - INFO - Unknown face detected
+2025-04-25 14:45:30,926 - INFO - Database connection closed
+2025-04-25 14:45:31,024 - INFO - Predicted Student_ID: 21210788, Confidence: 74
+2025-04-25 14:45:31,130 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:31,130 - INFO - Unknown face detected
+2025-04-25 14:45:31,130 - INFO - Database connection closed
+2025-04-25 14:45:32,762 - INFO - Predicted Student_ID: 21210788, Confidence: 67
+2025-04-25 14:45:32,861 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:32,861 - INFO - Unknown face detected
+2025-04-25 14:45:32,861 - INFO - Database connection closed
+2025-04-25 14:45:32,921 - INFO - Predicted Student_ID: 21210788, Confidence: 73
+2025-04-25 14:45:33,023 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:33,024 - INFO - Unknown face detected
+2025-04-25 14:45:33,024 - INFO - Database connection closed
+2025-04-25 14:45:33,080 - INFO - Predicted Student_ID: 21210788, Confidence: 74
+2025-04-25 14:45:33,178 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:33,178 - INFO - Unknown face detected
+2025-04-25 14:45:33,178 - INFO - Database connection closed
+2025-04-25 14:45:33,238 - INFO - Predicted Student_ID: 21210788, Confidence: 73
+2025-04-25 14:45:33,347 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:33,347 - INFO - Unknown face detected
+2025-04-25 14:45:33,348 - INFO - Database connection closed
+2025-04-25 14:45:33,415 - INFO - Predicted Student_ID: 21210788, Confidence: 75
+2025-04-25 14:45:33,522 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:33,523 - INFO - Unknown face detected
+2025-04-25 14:45:33,523 - INFO - Database connection closed
+2025-04-25 14:45:33,584 - INFO - Predicted Student_ID: 21210788, Confidence: 75
+2025-04-25 14:45:33,687 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:33,687 - INFO - Unknown face detected
+2025-04-25 14:45:33,687 - INFO - Database connection closed
+2025-04-25 14:45:33,743 - INFO - Predicted Student_ID: 21210788, Confidence: 75
+2025-04-25 14:45:33,841 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:33,841 - INFO - Unknown face detected
+2025-04-25 14:45:33,842 - INFO - Database connection closed
+2025-04-25 14:45:33,897 - INFO - Predicted Student_ID: 21210788, Confidence: 74
+2025-04-25 14:45:33,993 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:33,994 - INFO - Unknown face detected
+2025-04-25 14:45:33,994 - INFO - Database connection closed
+2025-04-25 14:45:34,060 - INFO - Predicted Student_ID: 21210788, Confidence: 76
+2025-04-25 14:45:34,171 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:34,172 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:34,172 - INFO - Database connection closed
+2025-04-25 14:45:34,246 - INFO - Predicted Student_ID: 21210788, Confidence: 77
+2025-04-25 14:45:34,344 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:34,345 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:34,345 - INFO - Database connection closed
+2025-04-25 14:45:34,404 - INFO - Predicted Student_ID: 21210788, Confidence: 78
+2025-04-25 14:45:34,502 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:34,502 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:34,503 - INFO - Database connection closed
+2025-04-25 14:45:34,563 - INFO - Predicted Student_ID: 21210788, Confidence: 78
+2025-04-25 14:45:34,669 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:34,670 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:34,670 - INFO - Database connection closed
+2025-04-25 14:45:34,740 - INFO - Predicted Student_ID: 21210788, Confidence: 79
+2025-04-25 14:45:34,850 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:34,851 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:34,851 - INFO - Database connection closed
+2025-04-25 14:45:34,923 - INFO - Predicted Student_ID: 21210788, Confidence: 77
+2025-04-25 14:45:35,028 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:35,028 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:35,029 - INFO - Database connection closed
+2025-04-25 14:45:35,096 - INFO - Predicted Student_ID: 21210788, Confidence: 77
+2025-04-25 14:45:35,193 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:35,194 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:35,194 - INFO - Database connection closed
+2025-04-25 14:45:35,268 - INFO - Predicted Student_ID: 21210788, Confidence: 78
+2025-04-25 14:45:35,368 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:35,369 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:35,369 - INFO - Database connection closed
+2025-04-25 14:45:35,436 - INFO - Predicted Student_ID: 21210788, Confidence: 78
+2025-04-25 14:45:35,532 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:35,533 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:35,533 - INFO - Database connection closed
+2025-04-25 14:45:35,622 - INFO - Predicted Student_ID: 21210788, Confidence: 78
+2025-04-25 14:45:35,723 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:35,724 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:35,725 - INFO - Database connection closed
+2025-04-25 14:45:35,794 - INFO - Predicted Student_ID: 21210788, Confidence: 78
+2025-04-25 14:45:35,902 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:35,902 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:35,903 - INFO - Database connection closed
+2025-04-25 14:45:35,972 - INFO - Predicted Student_ID: 21210788, Confidence: 78
+2025-04-25 14:45:36,089 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:36,090 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:36,090 - INFO - Database connection closed
+2025-04-25 14:45:36,156 - INFO - Predicted Student_ID: 21210788, Confidence: 78
+2025-04-25 14:45:36,252 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:36,253 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:36,253 - INFO - Database connection closed
+2025-04-25 14:45:36,328 - INFO - Predicted Student_ID: 21210788, Confidence: 78
+2025-04-25 14:45:36,433 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:36,434 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:36,436 - INFO - Database connection closed
+2025-04-25 14:45:36,500 - INFO - Predicted Student_ID: 21210788, Confidence: 78
+2025-04-25 14:45:36,597 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:36,598 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:36,599 - INFO - Database connection closed
+2025-04-25 14:45:36,660 - INFO - Predicted Student_ID: 21210788, Confidence: 78
+2025-04-25 14:45:36,767 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:36,768 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:36,768 - INFO - Database connection closed
+2025-04-25 14:45:36,827 - INFO - Predicted Student_ID: 21210788, Confidence: 76
+2025-04-25 14:45:36,943 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:36,943 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:36,944 - INFO - Database connection closed
+2025-04-25 14:45:37,017 - INFO - Predicted Student_ID: 21210788, Confidence: 74
+2025-04-25 14:45:37,135 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:37,135 - INFO - Unknown face detected
+2025-04-25 14:45:37,136 - INFO - Database connection closed
+2025-04-25 14:45:37,200 - INFO - Predicted Student_ID: 21210788, Confidence: 73
+2025-04-25 14:45:37,302 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:37,302 - INFO - Unknown face detected
+2025-04-25 14:45:37,303 - INFO - Database connection closed
+2025-04-25 14:45:37,423 - INFO - Predicted Student_ID: 21210788, Confidence: 71
+2025-04-25 14:45:37,523 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:37,523 - INFO - Unknown face detected
+2025-04-25 14:45:37,523 - INFO - Database connection closed
+2025-04-25 14:45:38,058 - INFO - Predicted Student_ID: 21210788, Confidence: 72
+2025-04-25 14:45:38,162 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:38,162 - INFO - Unknown face detected
+2025-04-25 14:45:38,164 - INFO - Database connection closed
+2025-04-25 14:45:39,710 - INFO - Predicted Student_ID: 21210788, Confidence: 73
+2025-04-25 14:45:39,833 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:39,833 - INFO - Unknown face detected
+2025-04-25 14:45:39,834 - INFO - Database connection closed
+2025-04-25 14:45:39,897 - INFO - Predicted Student_ID: 21210788, Confidence: 73
+2025-04-25 14:45:40,026 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:40,027 - INFO - Unknown face detected
+2025-04-25 14:45:40,027 - INFO - Database connection closed
+2025-04-25 14:45:40,089 - INFO - Predicted Student_ID: 21210788, Confidence: 73
+2025-04-25 14:45:40,200 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:40,200 - INFO - Unknown face detected
+2025-04-25 14:45:40,201 - INFO - Database connection closed
+2025-04-25 14:45:40,257 - INFO - Predicted Student_ID: 21210788, Confidence: 74
+2025-04-25 14:45:40,362 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:40,363 - INFO - Unknown face detected
+2025-04-25 14:45:40,363 - INFO - Database connection closed
+2025-04-25 14:45:40,416 - INFO - Predicted Student_ID: 21210788, Confidence: 74
+2025-04-25 14:45:40,535 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:40,535 - INFO - Unknown face detected
+2025-04-25 14:45:40,536 - INFO - Database connection closed
+2025-04-25 14:45:40,593 - INFO - Predicted Student_ID: 21210788, Confidence: 73
+2025-04-25 14:45:40,699 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:40,699 - INFO - Unknown face detected
+2025-04-25 14:45:40,699 - INFO - Database connection closed
+2025-04-25 14:45:40,755 - INFO - Predicted Student_ID: 21210788, Confidence: 74
+2025-04-25 14:45:40,857 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:40,857 - INFO - Unknown face detected
+2025-04-25 14:45:40,857 - INFO - Database connection closed
+2025-04-25 14:45:40,928 - INFO - Predicted Student_ID: 21210788, Confidence: 73
+2025-04-25 14:45:41,033 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:41,033 - INFO - Unknown face detected
+2025-04-25 14:45:41,033 - INFO - Database connection closed
+2025-04-25 14:45:41,087 - INFO - Predicted Student_ID: 21210788, Confidence: 73
+2025-04-25 14:45:41,192 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:41,192 - INFO - Unknown face detected
+2025-04-25 14:45:41,193 - INFO - Database connection closed
+2025-04-25 14:45:41,264 - INFO - Predicted Student_ID: 21210788, Confidence: 73
+2025-04-25 14:45:41,370 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:41,371 - INFO - Unknown face detected
+2025-04-25 14:45:41,371 - INFO - Database connection closed
+2025-04-25 14:45:41,428 - INFO - Predicted Student_ID: 21210788, Confidence: 73
+2025-04-25 14:45:41,534 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:41,534 - INFO - Unknown face detected
+2025-04-25 14:45:41,534 - INFO - Database connection closed
+2025-04-25 14:45:41,596 - INFO - Predicted Student_ID: 21210788, Confidence: 73
+2025-04-25 14:45:41,694 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:41,695 - INFO - Unknown face detected
+2025-04-25 14:45:41,695 - INFO - Database connection closed
+2025-04-25 14:45:41,758 - INFO - Predicted Student_ID: 21210788, Confidence: 74
+2025-04-25 14:45:41,872 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:41,872 - INFO - Unknown face detected
+2025-04-25 14:45:41,873 - INFO - Database connection closed
+2025-04-25 14:45:41,931 - INFO - Predicted Student_ID: 21210788, Confidence: 73
+2025-04-25 14:45:42,025 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:42,026 - INFO - Unknown face detected
+2025-04-25 14:45:42,026 - INFO - Database connection closed
+2025-04-25 14:45:42,084 - INFO - Predicted Student_ID: 21210788, Confidence: 74
+2025-04-25 14:45:42,180 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:42,180 - INFO - Unknown face detected
+2025-04-25 14:45:42,181 - INFO - Database connection closed
+2025-04-25 14:45:42,237 - INFO - Predicted Student_ID: 21210788, Confidence: 74
+2025-04-25 14:45:42,339 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:42,339 - INFO - Unknown face detected
+2025-04-25 14:45:42,340 - INFO - Database connection closed
+2025-04-25 14:45:42,405 - INFO - Predicted Student_ID: 21210788, Confidence: 76
+2025-04-25 14:45:42,501 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:42,501 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:42,502 - INFO - Database connection closed
+2025-04-25 14:45:42,554 - INFO - Predicted Student_ID: 21210788, Confidence: 78
+2025-04-25 14:45:42,648 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:42,649 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:42,649 - INFO - Database connection closed
+2025-04-25 14:45:42,717 - INFO - Predicted Student_ID: 21210788, Confidence: 78
+2025-04-25 14:45:42,806 - INFO - Database result: Name=Aniket Mishra, Roll=2100100100033, Dept=Computer
+2025-04-25 14:45:42,807 - INFO - Attendance already marked in session for Student_ID: 21210788
+2025-04-25 14:45:42,807 - INFO - Database connection closed
+2025-04-25 14:45:43,152 - INFO - Face recognition session ended
