@@ -29,10 +29,10 @@ DATA_DIR = r"D:\PROJECTS\Major Project\Python-FYP-Face-Recognition-Attendence-Sy
 def get_db_connection():
     try:
         conn = mysql.connector.connect(
-            user='root',
-            password='1234567890',
-            host='localhost',
-            database='facerecognizer',
+            user='use your root',
+            password='Use your password ',
+            host='use your localhost',
+            database='use your database ',
             port=3306
         )
         logger.info("Database connection successful")
